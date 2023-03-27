@@ -1,0 +1,6 @@
+D:\c#\MathTaskClassLibrary2\MathTaskClassLibrary2\bin\Debug\MathTaskClassLibrary2.dll
+D:\c#\MathTaskClassLibrary2\MathTaskClassLibrary2\bin\Debug\MathTaskClassLibrary2.pdb
+D:\c#\MathTaskClassLibrary2\MathTaskClassLibrary2\obj\Debug\MathTaskClassLibrary2.csproj.AssemblyReference.cache
+D:\c#\MathTaskClassLibrary2\MathTaskClassLibrary2\obj\Debug\MathTaskClassLibrary2.csproj.CoreCompileInputs.cache
+D:\c#\MathTaskClassLibrary2\MathTaskClassLibrary2\obj\Debug\MathTaskClassLibrary2.dll
+D:\c#\MathTaskClassLibrary2\MathTaskClassLibrary2\obj\Debug\MathTaskClassLibrary2.pdb
